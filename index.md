@@ -5,13 +5,13 @@
  در حال حاضر در مقطع کارشناسی ارشد رشته مهندسی نرم افزار دانشگاه پیام نور تهران مشغول به تحصیل می باشم
  
 ```
-![Logo](https://github.com/behrouzazin/resume)
+![Logo](https://resume/1.png)
 
 ---
 
 TEL  : 09134087040 <br/>
 Mail : behrouzazin@gmail.com <br/>
-Resume pdf : [link to Resume.](https://github.com/behrouzazin/resume) <br/>
+Resume pdf : [link to Resume.](https://resume/resume.pdf) <br/>
 
 ###بیوگرافی
 ---
